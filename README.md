@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Wesley Sousa
 
-**`Desenvolvedor Back`**
+**`Desenvolvedor Back End`**
 
 ### 🤖 Linguagens e Tecnologias
 
