@@ -1,7 +1,9 @@
-# 👨🏻‍💻 Wesley Sousa  
+# 👨🏻‍💻 Wesley Sousa 
 <a href="https://www.linkedin.com/in/Wesley2v" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 **`Desenvolvedor Back End`**
+
+Desenvolverdor Back End formado em Análise e Desenvolvimento de Sistemas buscando a primeira oportunidade na área.
 
 ### 🤖 Linguagens e Tecnologias
 
